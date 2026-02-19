@@ -1,0 +1,6 @@
+print("Lorem Ipsum Ist",end=" ")
+print("Um lorem")
+print(1)
+print(300)
+print(5+3)
+print("I am Dennis, I am",55,"years old")
