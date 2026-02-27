@@ -35,4 +35,4 @@
 def display_info(**kwargs):
     for key,value in kwargs.items():
         print(f"{key}:{value}")
-display_info(name="Namratha",age=22)
+display_info(name="Namratha",age=22,sex="Female",married="false")
