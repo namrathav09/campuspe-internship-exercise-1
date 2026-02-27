@@ -75,3 +75,4 @@ age=21
 
 status = "adult" if age>=19 else "minor"
 print(status)
+
