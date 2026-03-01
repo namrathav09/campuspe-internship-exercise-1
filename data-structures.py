@@ -40,16 +40,52 @@ mixed=[1,"Namratha",34.5,True]
 
 
 #List automation
-squares=[]
+# squares=[]
 
-for i in range(1,6):
-    squares.append(i**2)
-print(squares)
+# for i in range(1,6):
+#     squares.append(i**2)
+# print(squares)
 
 
-squares = [i**2 for i in range(1,6)]
-print(squares)
+# squares = [i**2 for i in range(1,6)]
+# print(squares)
 
 #Tuples
+coordinates=(10,20)
+person=("kavya",25,"Chitradurga")
+#print(person[2])
+
+name,age,district=person
+print(f"I am {name},from {district}. I am {age} years old")
 #Dictionaries
-#Sets
+mathClass={}
+student={
+    "name":"Dennis",
+    "age":22,
+    "grade":"A",
+    "Courses":["Math","Science","Social Sciece"]
+
+    }
+# print(student["name"])
+# print(student.get("phone","User's Phone number doesn't exist"))
+student["phone"] =9880898980
+student["age"]=36
+# print(student)  
+# student.pop("grade")
+# print(student)
+# for key in student:
+# print(f"{key}:{student[key]}")
+
+# Sets
+empty_set=set()
+numbers=[1,2,3,3,3,3,3,4,4,4,4,5]
+unique_numbers=set(numbers)
+print(numbers)
+print(unique_numbers)
+unique_numbers.add(88888)
+print(unique_numbers)
+unique_numbers.remove(88888)
+print(unique_numbers)
+unique_numbers.remove(88)#gives error if number not exist
+unique_numbers.discard(88)#doesnot give error een though the number not present
+
