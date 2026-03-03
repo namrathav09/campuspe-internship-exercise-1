@@ -8,5 +8,9 @@
 
 # Formating Texts
 **Bold Text**
+
 *Italics*
+
 ***Bold as well as Italics***
+
+'This is code'
