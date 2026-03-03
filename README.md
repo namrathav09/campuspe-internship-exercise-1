@@ -50,5 +50,7 @@ def hello()
 # Tables
 | id | Topic name | File Link |
 |----|------------|-----------|
-|1   | Basucs of variables| Link |
+|1   | Basics of variables| Link |
+
+[variables.py](Python Basics/variables.py)
 
