@@ -13,4 +13,16 @@
 
 ***Bold as well as Italics***
 
-'This is code
+"This is code"
+
+#Lists
+##  Ordered List
+1. First Item
+2. Second Item
+3. Third Item
+
+## Unordered List
+- item 1
+- item 2
+   - sub item 1
+
