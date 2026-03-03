@@ -35,7 +35,7 @@
 
 # Code Block
 
-"""python 
+```python
 def hello()
    print("Hello world")
-"""
+```
