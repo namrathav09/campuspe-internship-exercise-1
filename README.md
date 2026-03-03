@@ -6,4 +6,7 @@
 ##### heading 5
 ###### heading 6
 
+# Formating Texts
 **Bold Text**
+*Italics*
+***Bold as well as Italics***
