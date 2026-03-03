@@ -50,5 +50,5 @@ def hello()
 # Tables
 | id | Topic name | File Link |
 |----|------------|-----------|
-|1   | intro      | Link      |
+|1   | intro      | [variables.py](Python Basics) |
 
