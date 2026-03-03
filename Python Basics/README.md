@@ -1,2 +1,1 @@
-Generative Ai Internship
-
+Generative AI Internship
