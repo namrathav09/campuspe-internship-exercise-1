@@ -39,3 +39,6 @@
 def hello()
    print("Hello world")
 ```
+
+# Images
+![Campuspe Logo](https://campuspe.com/logo1.svg)
