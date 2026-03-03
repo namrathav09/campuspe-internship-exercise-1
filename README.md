@@ -28,5 +28,5 @@
  
 # Links
 [Click to goto Google.com](https://google.com)
-[CampusPe Login](https://campuspe/student)
+[CampusPe Login](https://campuspe/student Click to go to campuspe)
 
