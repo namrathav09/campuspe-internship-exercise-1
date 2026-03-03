@@ -32,3 +32,8 @@
 
 [CampusPe Login](https://campuspe/student/login "Click to Login to CampusPe student portal")
 
+
+"""Python 
+def hello()
+   print("Hello world")
+"""
