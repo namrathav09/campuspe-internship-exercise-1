@@ -52,5 +52,5 @@ def hello()
 |----|------------|-----------|
 |1   | Basics of variables| Link |
 
-[variables.py](Python Basics/variables.py)
+[variables.py](python-basics/variables.py)
 
