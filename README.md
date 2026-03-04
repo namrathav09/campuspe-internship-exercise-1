@@ -21,16 +21,18 @@ Project B -> vanv b - Tensor 2.12
 ---
 
 2. Commands to Run Venv
-Windows
+
+- Windows
 ---
 
 cd project-name
 python -m venv <venv-name(replace with actual venv name)>
 <venv-name\Scripts\activate>
 deactivate
+
 ---
 
-Mac and Linux
+- Mac and Linux
 ---
 
 cd project-name
