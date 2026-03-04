@@ -32,7 +32,7 @@ deactivate
 
 ---
 
-- Mac and Linux
+- Mac and Linux and unix os
 ---
 
 cd project-name
